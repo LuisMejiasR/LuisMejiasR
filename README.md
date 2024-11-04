@@ -1,7 +1,7 @@
 ## Hi there 👋
 <p>You can check out my portfolio <a href="https://luismejiasr.github.io/Portfolio/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=LuisMejiasR&show_icons=true&theme=tokyonight&bg_color=00000000&true&hide_border=true" height="160px"> <br>
+<img src="https://github-readme-stats.vercel.app/api?username=LuisMejiasR&show_icons=true&theme=tokyonight&bg_color=00000000&true&hide_border=true" height="160px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMejiasR&layout=compact&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true"> <br>
 
 ### 📫 Contact me from: 
